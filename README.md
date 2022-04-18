@@ -1,0 +1,4 @@
+#
+
+## DEPENDECIES
+- @types/nodemailer
